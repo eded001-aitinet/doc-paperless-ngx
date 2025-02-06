@@ -79,7 +79,7 @@ Para acessar o serviço, é necessário acessar atráves da porta *8000*: [local
 
 ## Envio de arquivos
 
-Para abrir o(s) arquivo(s) é necessário.
+Para abrir o(s) arquivo(s) é necessário clicar em **Navegar arquivos.
 
 ![test](imgs/etapas/add-doc.png)
 
