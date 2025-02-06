@@ -121,11 +121,11 @@ E configure a tag.
 
 3. Configure as permissões
 
-> Obs.: o admin que estiver setando as configurações **precisa** definir um proprietário, se não a vizulização é totalmente sem restrições
+> Obs.: o admin que estiver setando as configurações **precisa** definir um proprietário, se não a visulização é totalmente sem restrições
 
 ![test](imgs/etapas/permition-select.png)
 
-A seção ***Ver*** e ***Editar*** contém usuários ou grupos. Estes tópicos servem para definir quem ou qual grupo vizualizar certos documentos.
+A seção ***Ver*** e ***Editar*** contém usuários ou grupos. Estes tópicos servem para definir quem ou qual grupo visualizar certos documentos.
 
 ### Fluxos de trabalho
 
