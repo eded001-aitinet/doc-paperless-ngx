@@ -85,7 +85,7 @@ Para abrir o(s) arquivo(s) é necessário clicar em **Navegar arquivos**.
 
 ## Definição de permissões
 
-Para definir permissões dentro **Paperless-ngx** é necessário criar *grupos* e configurar as permissões de vizualização.
+Para definir permissões dentro **Paperless-ngx** é necessário criar *grupos* e configurar as permissões de visualização.
 
 ### Criação de *grupos* e *tags*
 
@@ -95,7 +95,7 @@ Para definir permissões dentro **Paperless-ngx** é necessário criar *grupos* 
 
 2. crie um grupo e configure como quiser
 
-> Obs.: selecione a opção de vizualização *UISettings* ou selecione todas
+> Obs.: selecione a opção de visualização *UISettings* ou selecione todas
 
 ![test](imgs/etapas/ui-settings-select.png)
 
